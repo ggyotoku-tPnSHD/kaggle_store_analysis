@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# Data
+data/processed/
+data/external/
+
+# Models
+models/
+
+# Reports
+reports/figures/
