@@ -21,3 +21,4 @@ models/
 
 # Reports
 reports/figures/
+data/raw/*.csv
